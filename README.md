@@ -18,10 +18,10 @@ I'm beginner Java Backend programmer from Russia 🧑‍💻
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
-### LeetCode
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/sosadwaden?border=0&radius=20)
-
 ### My GitHub Stats
 
 <a href="http://www.github.com/sosadwaden"><img src="https://github-readme-stats.vercel.app/api?username=sosadwaden&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="sosadwaden's GitHub stats" /></a>
+
+### LeetCode
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/sosadwaden?border=0&radius=20)
