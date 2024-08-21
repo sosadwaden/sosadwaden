@@ -5,7 +5,7 @@ I'm beginner Java Backend programmer from Russia 🧑‍💻
 ------------------------------------------------
 
 * 🌍  I'm based in Russia
-* 🌱  Worked with Java, SQL, JDBC, HTTP Servlets, Maven, JUnit, Hibernate, Spring and Spring Boot, Spring Data JPA, Spring Security, Spring Cloud, Apache Kafka, Docker
+* 🌱  Worked with Java, SQL, JDBC, HTTP Servlets, Maven, JUnit 5, Hibernate, Spring (Boot, MVC, Data JPA, Security, Cloud), Apache Kafka, Docker
 * ⚡  I like to solve problems on LeetCode and Codeforces
 
 ### My skills 
